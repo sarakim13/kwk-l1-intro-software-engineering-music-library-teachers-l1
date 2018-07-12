@@ -4,7 +4,7 @@
 
 def list_artists(lib)
   lib.each  do |artist|
-    puts "#{artist}""
+    puts "#{artist}"
   end
 end
 
